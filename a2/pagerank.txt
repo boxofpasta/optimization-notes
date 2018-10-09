@@ -1,0 +1,15 @@
+The top 5 page indices along with PageRank scores:
+Page Index: 1803, Score: 0.1390600216284424
+Page Index: 1514, Score: 0.11653621554735084
+Page Index: 1819, Score: 0.10732513172143847
+Page Index: 2245, Score: 0.10086748041614228
+Page Index: 2246, Score: 0.07291982593498186
+ 
+ 
+The bottom 5 page indices along with PageRank scores:
+Page Index: 47, Score: 1.146856914518424e-136
+Page Index: 2, Score: 1.1166102489315196e-136
+Page Index: 95, Score: 8.838847655670514e-137
+Page Index: 89, Score: 7.852203629444407e-137
+Page Index: 92, Score: 7.238532852922948e-137
+
